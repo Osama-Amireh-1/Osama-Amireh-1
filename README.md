@@ -1,5 +1,6 @@
 
 <h1>Hi there 👋 I'm Osama Amireh developer<h1>
+   🔭 I’m Computer student 
 <!--
 **Osama-Amireh-1/Osama-Amireh-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
