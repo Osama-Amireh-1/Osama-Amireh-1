@@ -1,6 +1,9 @@
+<h1 align="center">Hi there 👋 I'm Osama Amireh</h1>
+<p align="center">Software Engineer | .NET Core & Angular | Amman, Jordan 🇯🇴</p>
 
-<h1>Hi there 👋 I'm Osama Amireh<h1>
-   🔭 I’m Software engineer  
+## 🔭 About me
+I'm a Software Engineer building full-stack enterprise applications and microservices with **.NET Core** and **Angular**, following **Clean Architecture**, **DDD**, and **CQRS**. I have a B.Sc. in Computer Science from JUST and a competitive programming background, and I enjoy solving complex problems and building clean, maintainable systems.
+  
 <!--
 **Osama-Amireh-1/Osama-Amireh-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
